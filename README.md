@@ -13,9 +13,8 @@ Next, kali ini adalah Challenge untuk membuat Dashboard Hago. Ada beberapa hal y
 3. Card Swiper, beruntungnya sudah ada yang membuat library-nya hehe. Sangat powerfull, silahkan cek disini:
 https://pub.dartlang.org/packages/flutter_swiper
 
-4/5. Untuk bagian ini sangat mudah dikerjakan menggunakan Stack dan Positioned :-)
-Saya cukup lama mengerjakan bagian ini karena belum terbiasa >_<
-Tapi sejauh ini widget ini powerfull banget buat bikin ginian.
+4. Untuk bagian ini sangat mudah dikerjakan menggunakan Stack dan Positioned :-)
+5. Sama dengan nomor 4, oh ya label jumlah viewer tidak menggunakan minus ya atribut top pada Positioned-nya. Ada trik-nya, silahkan cek codingnya hehe.
 
 Dan bagian yang paling lama dikerjakan adalah ngecrop gambar dari screenshoot-nya,
 wkwkwk pegel pak. 
